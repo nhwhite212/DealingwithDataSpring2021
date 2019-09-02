@@ -1,0 +1,15 @@
+{
+   "text":"I think that IBM watson is a wonderful service.",
+    "features":{
+      "entities": {
+        "emotion": true,
+        "sentiment": true,
+        "limit":2
+      },
+     "keywords": {
+         "emotion":true,
+         "sentiment":true,
+         "limit": 2
+    }
+   }
+}
