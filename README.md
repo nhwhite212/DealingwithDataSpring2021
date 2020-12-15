@@ -1,4 +1,4 @@
-# Fall 2019 Dealing with Data Class - Professor Norman White
+# Spring 2021 Dealing with Data Class - Professor Norman White
 
 This class is designed to teach students some of the basic concepts of Dealing with Data, especially for data scientists.
 It introduces many of the skills and technologies that data scientists use to retrieve, manipulate, store and analyze data sets.
