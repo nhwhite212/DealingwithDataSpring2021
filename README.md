@@ -5,7 +5,6 @@ It introduces many of the skills and technologies that data scientists use to re
 Students will learn the basics of linux, python, SQL, regular expressions, using APIs, common data sources, as well as some  data mining examples.
 
 
-
 ## Data Sets
 
 * [List of interesting data sets](DATA_SOURCES.md)
